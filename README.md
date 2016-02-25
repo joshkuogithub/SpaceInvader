@@ -10,10 +10,8 @@ Game Description
 -----------------------------
 A classic Arcade game. 
 You are about to save the galaxy on a Nokia5510 LCD screen. 
-Game operation is very intuitive. 
-1) Slide pot - Playership movement.
-2) Bush button - Player action, fire!. 
-Good Luck!
+Game control is very intuitive. Watch the demo video on Youtube: https://youtu.be/PbEe4651eyA
+Good Luck Saving the Galaxy!
 
 Hardware Specs
 -----------------------------
