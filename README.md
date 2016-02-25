@@ -30,12 +30,12 @@ Pin Connection Requirement:
  7. PA7	-	Reset (Nokia5110)
 
 
-Some known issues:
+Known issues:
 -----------------------------
 1) PE1 initialized but never used.
 2) UFO is not initialized in the game.
 
-Peding Updates:
+Pending Updates:
 -----------------------------
 1) Solving known issues.
 2) Add audio effect in the near future.
