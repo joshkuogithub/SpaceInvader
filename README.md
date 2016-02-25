@@ -19,7 +19,7 @@ Hardware Specs
 -----------------------------
 Targeting Devices:	LM4F120/TM4C123
  
-Pin Connuction Requirement:
+Pin Connection Requirement:
  
  1. PE2	-	Slide Potentiometer (ANI1)
  2. PE0	-	Button Switch
