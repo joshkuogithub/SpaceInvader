@@ -37,5 +37,5 @@ Some known issues:
 Peding Updates:
 -----------------------------
 1) Solving known issues.
-2) Add sound effect in the near future.
+2) Add audio effect in the near future.
 3) Create video or picture demo of the functioning system.
