@@ -30,7 +30,7 @@ Pin Connection Requirement:
  7. PA7	-	Reset (Nokia5110)
 
 
-Known issues:
+Known Issues:
 -----------------------------
 1) PE1 initialized but never used.
 2) UFO is not initialized in the game.
