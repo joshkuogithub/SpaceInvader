@@ -28,7 +28,7 @@
  * 4. PA3	-	SSI0Fss (Nokia5110)
  * 5. PA5	-	SSI0Tx	(Nokia5110)
  * 6. PA6	-	Data/Command (Nokia5110)
- * 7. Pa7	-	Reset (Nokia5110)
+ * 7. PA7	-	Reset (Nokia5110)
  *
  ********************/
 
