@@ -1,10 +1,13 @@
 # SpaceInvader
 
 ARM Cortex M Programming: Arcade Game - Space Invader
+-----------------------------
 
 Josh Kuo
 Jan 2016
 
+Game Description
+-----------------------------
 Space Invaders
 A classic Arcade game - Space Invaders
 You are about to save the galaxy on a Nokia5510 LCD screen.
@@ -27,10 +30,12 @@ Pin Connuction Requirement:
 
 
 Some known issues:
+-----------------------------
 1) PE1 initialized but never used.
 2) UFO is not initialized in the game.
 
 Peding Updates:
+-----------------------------
 1) Solving known issues.
 2) Add sound effect in the near future.
 3) Create video or picture demo of the functioning system.
