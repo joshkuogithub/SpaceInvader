@@ -8,10 +8,11 @@ Jan 2016
 
 Game Description
 -----------------------------
-Space Invaders
-A classic Arcade game - Space Invaders
-You are about to save the galaxy on a Nokia5510 LCD screen.
-Game operation is very intuitive.
+A classic Arcade game. 
+You are about to save the galaxy on a Nokia5510 LCD screen. 
+Game operation is very intuitive. 
+1) Slide pot - Playership movement.
+2) Bush button - Player action, fire!. 
 Good Luck!
 
 Hardware Specs
